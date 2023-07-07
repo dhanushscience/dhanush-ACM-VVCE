@@ -1,0 +1,442 @@
+.desktop4-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop4-desktop4 {
+  width: 100%;
+  height: 1774px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  background-color: rgba(18, 18, 18, 1);
+}
+.desktop4-container1 {
+  flex: 0 0 auto;
+  width: 1075px;
+  height: auto;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: center;
+}
+.desktop4-group24 {
+  top: 874px;
+  left: 0px;
+  right: 0px;
+  width: 1075px;
+  height: 411.0000915527344px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-text {
+  top: 74px;
+  left: 295px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-line10 {
+  top: 0px;
+  left: 0px;
+  width: 1075px;
+  height: 1px;
+  position: absolute;
+}
+.desktop4-line11 {
+  top: 411px;
+  left: 0px;
+  width: 1075px;
+  height: 1px;
+  position: absolute;
+}
+.desktop4-vvcelogo3 {
+  top: 88px;
+  left: 40px;
+  width: 229px;
+  height: 236px;
+  position: absolute;
+}
+.desktop4-text01 {
+  top: 148px;
+  left: 295px;
+  color: rgba(255, 255, 255, 1);
+  width: 566px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-link {
+  display: contents;
+}
+.desktop4-instagram1button {
+  top: 280px;
+  left: 431px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  text-decoration: none;
+}
+.desktop4-link1 {
+  display: contents;
+}
+.desktop4-linkedin1button {
+  top: 273px;
+  left: 295px;
+  width: 50px;
+  height: 63px;
+  position: absolute;
+  text-decoration: none;
+}
+.desktop4-link2 {
+  display: contents;
+}
+.desktop4-facebook21button {
+  top: 280px;
+  left: 363px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  text-decoration: none;
+}
+.desktop4-link3 {
+  display: contents;
+}
+.desktop4-email1button {
+  top: 280px;
+  left: 496px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  text-decoration: none;
+}
+.desktop4-group41 {
+  top: 158px;
+  left: 0px;
+  right: 0px;
+  width: 1010px;
+  height: 564px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-group25 {
+  top: 0px;
+  left: 0px;
+  width: 1010px;
+  height: 564px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-text06 {
+  left: 318px;
+  color: rgba(255, 195, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-rectangle11 {
+  top: 179px;
+  left: 0px;
+  width: 1010px;
+  height: 385px;
+  position: absolute;
+}
+.desktop4-text08 {
+  top: 211px;
+  left: 218px;
+  color: rgba(255, 195, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text10 {
+  top: 295px;
+  left: 275px;
+  color: rgba(255, 255, 255, 1);
+  width: 460px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-link4 {
+  display: contents;
+}
+.desktop4-group3button {
+  top: 358px;
+  left: 318px;
+  width: 340px;
+  height: 84px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.desktop4-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 340px;
+  height: 84px;
+  position: absolute;
+}
+.desktop4-text12 {
+  top: 21px;
+  left: 107px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-group26 {
+  top: 78px;
+  right: 0px;
+  width: 390px;
+  height: 31px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-text14 {
+  color: rgb(255, 255, 255);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text15 {
+  left: 263px;
+  color: rgb(255, 195, 0);
+  width: 127px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: normal;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text16 {
+  left: 86px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text18 {
+  left: 169px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text20 {
+  left: 400px;
+  color: #fdc305;
+  right: 0px;
+  bottom: 400px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text23 {
+  left: 400px;
+  color: rgb(255, 255, 255);
+  width: 566px;
+  bottom: 200px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Exo;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text24 {
+  font-style: normal;
+  font-weight: 800;
+}
+.desktop4-text25 {
+  font-style: normal;
+  font-weight: 800;
+}
+.desktop4-image {
+  left: 107px;
+  width: 221px;
+  bottom: 195px;
+  height: 226px;
+  position: absolute;
+  object-fit: cover;
+  border-radius: 50px;
+}
+@media(max-width: 991px) {
+  .desktop4-group24 {
+    width: 900px;
+  }
+  .desktop4-text {
+    top: 87px;
+    left: 291px;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-family: Exo;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .desktop4-line10 {
+    width: 900px;
+  }
+  .desktop4-line11 {
+    width: 900px;
+  }
+  .desktop4-rectangle11 {
+    top: 128px;
+    left: 55px;
+    width: 901px;
+    height: 339px;
+    margin: auto;
+  }
+  .desktop4-text08 {
+    top: 178px;
+    left: 240px;
+    right: 0px;
+    margin: auto;
+  }
+  .desktop4-text10 {
+    top: 250px;
+    left: 300px;
+  }
+  .desktop4-group3button {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .desktop4-text14 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: normal;
+    font-family: Exo;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .desktop4-text15 {
+    color: rgb(255, 195, 0);
+    font-size: 20px;
+    font-style: normal;
+    font-family: Exo;
+    font-weight: 800;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .desktop4-text20 {
+    left: 331px;
+    color: #fdc305;
+    bottom: 400px;
+    font-size: 32px;
+    font-family: Exo;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .desktop4-text23 {
+    left: 338px;
+    bottom: 200px;
+  }
+  .desktop4-image {
+    left: 75px;
+    bottom: 140px;
+  }
+}
